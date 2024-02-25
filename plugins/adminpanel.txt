@@ -1,0 +1,11 @@
+Sidebar
+=========================
+dashboard
+subadmins(add, manage)
+child(add, manage)
+driver(add, manage)
+location
+shift
+user(add, manage)
+payment details(add, manage)
+Account Settings(profile, change password, logout)
